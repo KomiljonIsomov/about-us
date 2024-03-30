@@ -5,8 +5,9 @@
 
 
 .container {
-    max-width: 1190px;
+    max-width: 1300px;
     margin-top: 90px;
+
 }
 
 .main-banner {
@@ -152,7 +153,7 @@
 .main-banner__info__2 {
     border-radius: 10px;
     height: 610px;
-    width: 1220px;
+    width: 1050px;
     background: #FFFFFF;
     padding-left: 60px;
     padding-top: 60px;
@@ -408,11 +409,6 @@
 .course-title {
     margin-left: 36px;
     margin-top: 20px;
-}
-
-.course-title-2 {
-    padding: 15px;
-    height: px;
 }
 
 .text-info_3 {
