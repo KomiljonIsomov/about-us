@@ -6,12 +6,12 @@
 
 .container {
     max-width: 1190px;
-  margin-top: 90px;
+    margin-top: 90px;
 }
 
 .main-banner {
     background:#0050DC;
-    padding: 60px 80px;
+    padding: 60px 40px;
     border-radius: 10px;
     height: 310px;
     display:flex;
@@ -28,7 +28,7 @@
 
 .main-banner__info {
     color: white;
-    display: inline-block;
+    margin-right: 30px;
 }
 
 .button {
@@ -576,7 +576,6 @@
 }
 
 .main-image {
-    margin-left: 120px;
     border-radius: 10px;
     width: 700px;
 }
